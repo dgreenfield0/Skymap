@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util
+END
+LabelMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/LabelMaker.java
+END
+IndexBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/IndexBuffer.java
+END
+ColoredQuad.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/ColoredQuad.java
+END
+AbstractUpdateClosure.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/AbstractUpdateClosure.java
+END
+SearchHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/SearchHelper.java
+END
+VertexBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/VertexBuffer.java
+END
+SkyRegionMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/SkyRegionMap.java
+END
+ColorBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/ColorBuffer.java
+END
+TexturedQuad.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/TexturedQuad.java
+END
+TextureReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/TextureReference.java
+END
+UpdateClosure.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/UpdateClosure.java
+END
+TexCoordBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/TexCoordBuffer.java
+END
+NightVisionColorBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/NightVisionColorBuffer.java
+END
+TextureManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/TextureManager.java
+END
+GLBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/util/GLBuffer.java
+END

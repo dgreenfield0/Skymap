@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control
+END
+RealClock.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/RealClock.java
+END
+TeleportingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/TeleportingController.java
+END
+ControllerGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/ControllerGroup.java
+END
+AbstractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/AbstractController.java
+END
+AstronomerModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/AstronomerModel.java
+END
+MagneticDeclinationCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/MagneticDeclinationCalculator.java
+END
+ZeroMagneticDeclinationCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/ZeroMagneticDeclinationCalculator.java
+END
+LocationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/LocationController.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/package.html
+END
+RealMagneticDeclinationCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/RealMagneticDeclinationCalculator.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/Controller.java
+END
+MagneticDeclinationCalculatorSwitcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/MagneticDeclinationCalculatorSwitcher.java
+END
+TransitioningCompositeClock.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/TransitioningCompositeClock.java
+END
+ZoomController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/ZoomController.java
+END
+TimeTravelClock.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/TimeTravelClock.java
+END
+SensorOrientationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/SensorOrientationController.java
+END
+Clock.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/Clock.java
+END
+AstronomerModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/AstronomerModelImpl.java
+END
+ManualOrientationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/control/ManualOrientationController.java
+END

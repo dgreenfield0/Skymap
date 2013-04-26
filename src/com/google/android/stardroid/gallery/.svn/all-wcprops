@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/gallery
+END
+Gallery.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/gallery/Gallery.java
+END
+GalleryImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/gallery/GalleryImage.java
+END
+GalleryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/gallery/GalleryFactory.java
+END
+HardcodedGallery.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/gallery/HardcodedGallery.java
+END

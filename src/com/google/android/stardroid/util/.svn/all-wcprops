@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util
+END
+VectorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/VectorUtil.java
+END
+StopWatchTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/StopWatchTreeNode.java
+END
+Matrix4x4.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/Matrix4x4.java
+END
+WeakHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/WeakHashSet.java
+END
+TimingTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/TimingTree.java
+END
+StarAttributeCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/StarAttributeCalculator.java
+END
+PreferenceChangeAnalyticsTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/PreferenceChangeAnalyticsTracker.java
+END
+FixedPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/FixedPoint.java
+END
+StopWatchTreePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/StopWatchTreePath.java
+END
+OsVersions.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/OsVersions.java
+END
+StopWatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/StopWatch.java
+END
+TimingTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/TimingTreeNode.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/package.html
+END
+Blog.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/Blog.java
+END
+Analytics.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/Analytics.java
+END
+MathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/MathUtil.java
+END
+MiscUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/MiscUtil.java
+END
+Geometry.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/Geometry.java
+END
+StopWatchTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/StopWatchTree.java
+END
+TimeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/TimeUtil.java
+END
+StopWatchImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/util/StopWatchImpl.java
+END

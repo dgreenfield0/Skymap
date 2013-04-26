@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers
+END
+AbstractFileBasedLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/AbstractFileBasedLayer.java
+END
+AbstractLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/AbstractLayer.java
+END
+NewStarsLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/NewStarsLayer.java
+END
+PlanetsLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/PlanetsLayer.java
+END
+LayerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/LayerManager.java
+END
+NewConstellationsLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/NewConstellationsLayer.java
+END
+StarOfBethlehemLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/StarOfBethlehemLayer.java
+END
+Layer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/Layer.java
+END
+NewMessierLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/NewMessierLayer.java
+END
+MeteorShowerLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/MeteorShowerLayer.java
+END
+SkyGradientLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/SkyGradientLayer.java
+END
+AbstractSourceLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/AbstractSourceLayer.java
+END
+GridLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/GridLayer.java
+END
+HorizonLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/HorizonLayer.java
+END
+EclipticLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/EclipticLayer.java
+END
+IssLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/IssLayer.java
+END
+BinarySourceIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/layers/BinarySourceIO.java
+END

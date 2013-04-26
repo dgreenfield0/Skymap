@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/app/libs-src
+END
+cglib-src-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/app/libs-src/cglib-src-2.2.jar
+END
+junit_3.8-src.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/app/libs-src/junit_3.8-src.jar
+END
+cglib-src-2.2.zip
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/app/libs-src/cglib-src-2.2.zip
+END
+easymock-2.5.2-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/app/libs-src/easymock-2.5.2-sources.jar
+END
+objenesis-1.2-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/app/libs-src/objenesis-1.2-sources.jar
+END
+easymockclassextension-2.5.2-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/app/libs-src/easymockclassextension-2.5.2-sources.jar
+END

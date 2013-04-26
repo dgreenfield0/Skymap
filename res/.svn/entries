@@ -1,0 +1,106 @@
+10
+
+dir
+7
+http://stardroid.googlecode.com/svn/trunk/app/res
+http://stardroid.googlecode.com/svn
+
+
+
+2012-01-19T18:21:08.938435Z
+3
+serafini@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b08bf98d-acef-1251-cd5a-95b050d75c1b
+
+values-pt
+dir
+
+drawable
+dir
+
+values-ru
+dir
+
+anim
+dir
+
+values-de
+dir
+
+values-ja
+dir
+
+values-zh-rTW
+dir
+
+raw
+dir
+
+values-es-rES
+dir
+
+values-zh-rCN
+dir
+
+values
+dir
+
+xml
+dir
+
+values-cs
+dir
+
+drawable-hdpi
+dir
+
+menu
+dir
+
+values-fr
+dir
+
+values-es
+dir
+
+values-nl
+dir
+
+values-ko
+dir
+
+drawable-ldpi
+dir
+
+values-en-rGB
+dir
+
+drawable-mdpi
+dir
+
+values-pl
+dir
+
+drawable-large
+dir
+
+values-it
+dir
+
+layout
+dir
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer
+END
+CrosshairOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/CrosshairOverlay.java
+END
+SkyBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/SkyBox.java
+END
+SearchArrow.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/SearchArrow.java
+END
+LabelObjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/LabelObjectManager.java
+END
+DummyRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/DummyRenderer.java
+END
+ImageObjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/ImageObjectManager.java
+END
+RendererControllerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/RendererControllerBase.java
+END
+RendererObjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/RendererObjectManager.java
+END
+RendererController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/RendererController.java
+END
+PointObjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/PointObjectManager.java
+END
+OverlayManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/OverlayManager.java
+END
+LabelOverlayManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/LabelOverlayManager.java
+END
+SkyRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/SkyRenderer.java
+END
+PolyLineObjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/renderer/PolyLineObjectManager.java
+END

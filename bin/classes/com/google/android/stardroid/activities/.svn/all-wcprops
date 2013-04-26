@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/activities
+END
+ImageGalleryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/activities/ImageGalleryActivity.java
+END
+EulaActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/activities/EulaActivity.java
+END
+EditSettingsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/activities/EditSettingsActivity.java
+END
+ImageDisplayActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/activities/ImageDisplayActivity.java
+END
+DialogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/activities/DialogFactory.java
+END
+SplashScreenActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/activities/SplashScreenActivity.java
+END
+DynamicStarMapActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/activities/DynamicStarMapActivity.java
+END
+SplashScreenActivity.java.backup
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/activities/SplashScreenActivity.java.backup
+END

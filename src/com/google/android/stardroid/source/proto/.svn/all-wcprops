@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/proto
+END
+source.proto
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/proto/source.proto
+END
+SourceProto.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/proto/SourceProto.java
+END
+source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/proto/source.sh
+END
+ProtobufAstronomicalSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/proto/ProtobufAstronomicalSource.java
+END

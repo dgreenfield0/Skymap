@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/impl
+END
+AbstractSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/impl/AbstractSource.java
+END
+ImageSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/impl/ImageSourceImpl.java
+END
+TextSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/impl/TextSourceImpl.java
+END
+LineSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/impl/LineSourceImpl.java
+END
+PointSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/impl/PointSourceImpl.java
+END
+AstronomicalSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/source/impl/AstronomicalSourceImpl.java
+END

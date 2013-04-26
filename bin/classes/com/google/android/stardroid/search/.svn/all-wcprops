@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/search
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/search/SearchResult.java
+END
+PrefixStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/search/PrefixStore.java
+END
+SearchTermsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/app/src/com/google/android/stardroid/search/SearchTermsProvider.java
+END
